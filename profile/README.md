@@ -1,6 +1,33 @@
-## Welcome to INF-EINF-B Labs
+## 🇩🇪 Willkommen bei den INF-EINF-B Labs
+
+_English version below._
+
+Willkommen bei den INF-EINF-B Labs. Hier findest du eine Sammlung von Tutorials, Übungen und Ressourcen, die speziell für Studierende des INF-EINF-B-Moduls entwickelt wurden. Diese Materialien sollen dir helfen, ein tieferes Verständnis des Kursinhalts zu erlangen und dich auf die Prüfung vorzubereiten. Wir nutzen dieses Repository ausdrücklich, um Aufgaben zu veröffentlichen, die wir gemeinsam in den Tutorien besprechen möchten.
+
+### 📘 Was du hier findest
+
+- **Übungen:** Zusätzliche Aufgaben, die wir gemeinsam in den Tutorien besprechen.
+- **Lösungen:** Lösungen, die wir zusammen in den Tutorien erarbeiten.
+
+### ❓ Sind diese Übungen relevant für die Prüfung?
+
+Auch wenn diese Übungen eine wertvolle Ergänzung für dein Studium sein können, sind sie **nicht direkt relevant für die INF-EINF-B-Prüfung**. Das Bearbeiten dieser Aufgaben kann dir bei der Vorbereitung helfen, dennoch solltest du immer die offiziellen Materialien der Universität priorisieren.
+
+## 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸 Welcome to INF-EINF-B Labs
 
 Welcome to INF-EINF-B Labs. Here, you'll find a collection of tutorials, exercises, and resources designed to support students enrolled in the **INF-EINF-B** module. These materials are inteded to help deepen your understanding of the course content and provide practice for the exam preperation. We explicitly use this repository to publish exercieses we want to discuss together in the lab sessions.
+
+### ⚠️ Haftungsausschluss
+
+1. Die hier veröffentlichten Aufgaben und Materialien sind **nicht offiziell vom Lehrstuhl geprüft oder genehmigt**.
+2. Sie können **kleinere Fehler oder Ungenauigkeiten enthalten**. Falls du auf Probleme stößt, beachte bitte:
+    - **Die offiziellen INF-EINF-B-Kommunikationskanäle der Universität (VC-Kurs) unterstützen diesen Inhalt nicht.**
+    - Du kannst uns jedoch direkt per E-Mail kontaktieren, wenn du Fragen hast.
+  
+### 📫 Contact
+
+Wenn du Fragen oder Anregungen zu den hier bereitgestellten Inhalten hast, kannst du uns gerne direkt per E-Mail kontaktieren.
+Wir hoffen, dass dir diese Ressourcen hilfreich sind, und wünschen dir viel Erfolg bei INF-EINF-B! 🚀
 
 ### 📘 What You'll Find Here
 
